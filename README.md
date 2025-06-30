@@ -12,6 +12,10 @@ HTML – Semantic structure for better SEO and accessibility
 
 ### Home Page: Fashion E-commerce Featuring Latest Arrivals, Best Sellers, and Promotional Offers
 
+
+![image](https://github.com/user-attachments/assets/eb585e6f-a2aa-4748-b190-6a109f6900ff)
+
+
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
 2.Hero Section: Features "Latest Arrivals" with a large image of a woman, suggesting new clothing lines are highlighted.
@@ -28,6 +32,10 @@ HTML – Semantic structure for better SEO and accessibility
 
 ### Collection Page: Comprehensive Product Catalog with Filtering Options
 
+
+![image](https://github.com/user-attachments/assets/a77df7ce-2feb-49d7-a50a-68060996e978)
+
+
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
 2.Breadcrumbs/Navigation (Top Left): "ALL COLLECTIONS" is prominently displayed, indicating the user's current location within the site.
@@ -43,6 +51,10 @@ HTML – Semantic structure for better SEO and accessibility
 7.Footer: Consistent with other pages, it includes the "FOREVER." brand information, "COMPANY" links (Home, About Us, Delivery, Privacy & Policy), and "GET IN TOUCH" details (a phone number "+1-2345-6789" and email address "contact@foreveryou.com"). A copyright notice for 2025 is also present.
 
 ### About Us Page: Brand Story, Mission, and Customer Guarantees
+
+
+![image](https://github.com/user-attachments/assets/35a436f1-814b-4c77-9505-5dcf15f03a19)
+
 
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
@@ -62,6 +74,9 @@ HTML – Semantic structure for better SEO and accessibility
 
 ### Contact Us Page: Store Location, Contact Information, and Career Opportunities
 
+![image](https://github.com/user-attachments/assets/e7532327-f278-4ff2-92ee-b0e8c9ea7afc)
+
+
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
 2."CONTACT US" Section: This is the primary content area for contact information.
@@ -80,6 +95,10 @@ HTML – Semantic structure for better SEO and accessibility
 
 ### Sign Up Page: User Registration Form with Name, Email, and Password Fields
 
+
+![image](https://github.com/user-attachments/assets/bde7433e-7291-4f06-8b38-5e67834466d8)
+
+
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
 2."Sign Up" Form: The central element of the page is a clean and straightforward sign-up form.
@@ -96,6 +115,9 @@ HTML – Semantic structure for better SEO and accessibility
 
 ### Login Page: User Authentication Form with Email and Password Fields
 
+![image](https://github.com/user-attachments/assets/21a7dd3c-2ce5-4c82-ae92-94c8263ff462)
+
+
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
 2."Login" Form: The central element of the page is a straightforward login form.
@@ -111,6 +133,10 @@ HTML – Semantic structure for better SEO and accessibility
 3.Footer: Consistent with other pages, it includes the "FOREVER." brand information, "COMPANY" links (Home, About Us, Delivery, Privacy & Policy), and "GET IN TOUCH" details (a phone number "+1-2345-6789" and email address "contact@foreveryou.com"). A copyright notice for 2025 is also present.
 
 ### Cart Page: Product Review, Quantity Adjustment, and Order Summary
+
+
+![image](https://github.com/user-attachments/assets/f783dbfb-1f98-4138-b7f9-2f889b4c7b1e)
+
 
 1.Header:Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
@@ -129,6 +155,10 @@ HTML – Semantic structure for better SEO and accessibility
 4.Footer: Consistent with other pages, it includes the "FOREVER." brand information, "COMPANY" links (Home, About Us, Delivery, Privacy & Policy), and "GET IN TOUCH" details (a phone number "+1-2345-6789" and email address "contact@foreveryou.com"). A copyright notice for 2025 is also present.
 
 ### Place Order Page: Delivery Details, Order Summary, and Payment Options
+
+
+![image](https://github.com/user-attachments/assets/a8a1402c-6b9f-4e34-a093-7443d47036f1)
+
 
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
@@ -162,7 +192,11 @@ HTML – Semantic structure for better SEO and accessibility
 
 5.Footer: Consistent with other pages, it includes the "FOREVER." brand information, "COMPANY" links (Home, About Us, Delivery, Privacy & Policy), and "GET IN TOUCH" details (a phone number "+1-2345-6789" and email address "contact@foreveryou.com"). A copyright notice for 2025 is also present.
 
-### Order History Page: Track Past Purchases and View Order Status
+### Order Page: Track Past Purchases and View Order Status
+
+![image](https://github.com/user-attachments/assets/b96b9a07-3584-43fe-a6ec-d83d7dbdc562)
+
+
 
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
@@ -188,7 +222,11 @@ HTML – Semantic structure for better SEO and accessibility
  
 4.Footer: Consistent with other pages, it includes the "FOREVER." brand information, "COMPANY" links (Home, About Us, Delivery, Privacy & Policy), and "GET IN TOUCH" details (a phone number "+1-2345-6789" and email address "contact@foreveryou.com"). A copyright notice for 2025 is also present.
 
-### Product Detail Page: Item Overview, Specifications, and Related Products
+### Product Page: Item Overview, Specifications, and Related Products
+
+
+![image](https://github.com/user-attachments/assets/a3b0e71e-75c2-42d7-8379-9f32397d5034)
+
 
 1.Header: Consistent with other pages, it features the "FOREVER." logo, navigation links (Home, Collection, About, Contact), and icons for search, wishlist, and user account/cart.
 
